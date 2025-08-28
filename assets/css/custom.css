@@ -1,0 +1,75 @@
+/* Custom CSS for SJMCP Website */
+
+/* Hero Section */
+.section-hero {
+    background-image: url('../images/inner-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 100px 0;
+    text-align: center;
+    position: relative;
+}
+
+.section-hero:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.section-hero h1 {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    position: relative;
+    z-index: 1;
+}
+
+.section-hero p {
+    font-size: 18px;
+    margin-bottom: 30px;
+    position: relative;
+    z-index: 1;
+}
+
+.section-hero .btn {
+    position: relative;
+    z-index: 1;
+    padding: 10px 30px;
+    font-size: 16px;
+}
+
+/* Background colors */
+.bg-light {
+    background-color: #f8f9fa;
+}
+
+/* Panels */
+.panel {
+    transition: all 0.3s ease;
+    margin-bottom: 30px;
+}
+
+.panel:hover {
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.panel-heading {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* Icons */
+.fa-3x {
+    margin-bottom: 15px;
+    color: #337ab7;
+}
+
+/* Sections */
+.section-inner {
+    padding: 60px 0;
+}

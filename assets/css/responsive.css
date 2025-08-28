@@ -1,0 +1,263 @@
+
+
+
+
+@media (max-width: 768px) {
+
+    ul.top-top-menu {
+    display: none;
+}
+    
+    .pull-right.top-top {
+    margin-top: -81px;
+}
+h3.title-md-one {
+   font-size: 24px;
+    font-weight: 700;
+    margin: 13px 0px 0px 3px;
+}
+
+h3.title-sm.text-theme {
+    font-size: 20px;
+    margin-top: 9px;
+    color: #fff;
+   text-align: left; 
+}
+
+#right-panel {
+    height: 100%;
+    /* float: left; */
+    width: 100%;
+    overflow: auto;
+    max-height: 800px;
+    background: #fff;
+}
+
+
+h3.social {
+    font-family: 'JosefinSansbold';
+    color: #b1161c;
+    font-size: 32px;
+    text-align: center;
+    margin-top: 4px;
+}
+
+.list-inline {
+    padding-left: 0;
+    margin-left: 70px;
+    list-style: none;
+    margin-top: 26px;
+}
+
+.widgets {
+    border-right: 0px dotted #000;
+}
+
+.navbar-nav>li {
+    float: none;
+    padding: 0px 0px 0px 0px;
+    /* height: 92px; */
+}
+
+form {
+    background-color: #607D8B;
+    padding: 10px;
+}
+
+.section.footer-bottom p {
+    line-height: 0;
+    padding-top: 47px;
+    font-size: 10px;
+}
+
+h1.manasa {
+    font-size: 19px;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 70px;
+}
+
+}
+
+/* XS Portrait */
+@media (max-width: 480px) {
+
+ ul.top-top-menu {
+    font-size: 16px;
+    list-style-type: none;
+    display: block;
+    overflow-x: auto;
+}
+
+h3.social {
+    font-family: 'JosefinSansbold';
+    color: #b1161c;
+    font-size: 32px;
+    text-align: center;
+    margin-top: 4px;
+}
+
+.list-inline {
+    padding-left: 0;
+    margin-left: 58px;
+    list-style: none;
+    margin-top: 26px;
+}
+
+.pull-right.top-top {
+    margin-top:0px;
+}
+
+.pull-right.top-top img {
+    position: absolute;
+    margin-top: -86px;
+    margin-left: -69px;
+}
+
+.section.section-sm.section-both.section-inner {
+    padding: 10px;
+}
+
+h3.title-md-one {
+   font-size: 24px;
+    font-weight: 700;
+    margin: 13px 0px 0px 3px;
+}
+
+h3.title-sm.text-theme {
+    font-size: 20px;
+    margin-top: 9px;
+    color: #fff;
+   text-align: left; 
+}
+
+#right-panel {
+    height: 100%;
+    /* float: left; */
+    width: 100%;
+    overflow: auto;
+    max-height: 800px;
+    background: #fff;
+}
+
+.widgets {
+    border-right: 0px dotted #000;
+}
+
+
+#boxes #dialog {
+    width: 100%;
+    margin-top: 156px;
+    left: 0px;
+    margin-left: -9px;
+    height: 1000px;
+    color: #fff;
+    padding: 10px;
+    /* background-color: #ca9c51; */
+    background-color: #ffffff;
+    background-image: url(../images/india-compressor.jpg);
+    font-family: 'Segoe UI Light', sans-serif;
+    font-size: 15pt;
+}
+
+
+#popupfoot {
+    font-size: 16pt;
+    position: absolute;
+    bottom: 0px;
+    padding: 0px 6px;
+    background-color: #fff;
+    width: 250px;
+    left: 63px;
+}
+
+.navbar-nav>li {
+ float: none;
+    padding: 0px 0px 0px 0px;
+    /* height: 92px; */
+}
+
+.w3-theme-border{
+ border-width: 0px;
+     display: none;
+    background-color: #fff;
+    float: right;
+    border-style: solid;
+   position: inherit;
+    padding: 7px;
+    bottom: 0px;
+    max-width: 400px;
+    z-index: 999;
+    margin-bottom: 0px;
+}
+
+.vertical-menu a {
+    background-color: #eee;
+    color: black;
+    display: -webkit-inline-box;
+    padding: 10px;
+    text-decoration: none;
+    border: 1px solid #ddd;
+}
+
+.section-abt {
+    padding: 18px 0px 150px 0px;
+    background-image: url(../images/college-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+form {
+    background-color: #607D8B;
+    padding: 10px;
+}
+
+ul.verticalmenu {
+    font-size: 16px;
+    list-style-type: none;
+    display: none;
+    overflow: -webkit-paged-x;
+    margin-left: 0px;
+    background-color: #000;
+}
+
+ul.verticalmenu  li a{
+    border: 1px solid #ddd;
+    padding: 6px;
+    color: #fff;
+}
+
+.section.footer-bottom p {
+    line-height: 0;
+    padding-top: 47px;
+    font-size: 10px;
+}
+
+
+.section-innerbg {
+    background-image: url(../images/inner-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 16px;
+}
+
+.border-box {
+    border-radius: 4px;
+    background-color: rgb(0, 104, 115);
+    padding: 6px;
+    color: #fff;
+    height: 230px;
+    width: 291px;
+}
+
+h1.manasa {
+    font-size: 19px;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 70px;
+}
+
+
+
+}
+

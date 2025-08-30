@@ -73,3 +73,31 @@
 .section-inner {
     padding: 60px 0;
 }
+.branding-text h2 {
+    font-size: 18px;
+    font-weight: normal;
+    color: #555;  /* Light grey color for "Rahmath Education Trust (R)" */
+    margin: 0;
+    padding: 0;
+}
+
+.branding-text h1 {
+    font-size: 50px;
+    font-weight: 900;
+    margin: 0;
+    padding: 0;
+    color: #F00;  /* Red color for "SULTAN" */
+}
+
+.branding-text h1 span {
+    color: #4B0082;  /* Purple color for "COLLEGE OF PHARMACY" */
+}
+
+.branding-text p {
+    font-size: 16px;
+    color: #555;  /* Light grey color for the accreditation text */
+    font-weight: normal;
+}
+.branding-logo {
+    margin-left: -10px;  /* Shift the logo's container to the left */
+}
